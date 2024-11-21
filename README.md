@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning
+I am a passionate software developer with a strong background in competitive coding, full-stack development and machine learning. I have a proven track record of delivering high-impact solutions across diverse technology stacks. With a deep passion for solving complex logical and mathematical problems, I bring both analytical precision and creative thinking to every project. Dedicated to continuous growth, I actively pursue opportunities to stay at the forefront of industry trends and advancements.
 
 
 ## 🌐 Socials:
